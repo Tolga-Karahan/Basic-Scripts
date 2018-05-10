@@ -22,8 +22,7 @@ do
 		"4") pwd;;
 		*) echo wrong choice;;
 	esac
-	
-	clear
+	echo	
 	echo "1. Date and Time"
 	echo
 	echo "2. Directory listing"
@@ -36,4 +35,4 @@ do
 
 	read choice
 done
-
+clear
