@@ -1,2 +1,2 @@
 # Basic-Scripts
-Some basic scripts written for system programming course
+Some basic scripts written for system programming course.
